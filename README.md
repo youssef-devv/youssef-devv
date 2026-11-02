@@ -1,5 +1,3 @@
-"# youssef-devv" 
-"# youssef-devv.github.io" 
 # Hi, I'm Youssef 🚀
 
 I am a software engineer focused on building high-performance, cross-platform mobile applications using **Dart** and **Flutter**. I architect clean, scalable codebases that bridge robust commercial utility with unique, creative user experiences.
